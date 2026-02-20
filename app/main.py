@@ -36,7 +36,7 @@ async def health_check():
     """Detailed health check for monitoring"""
     return {
         "status": "healthy",
-        "database": "connected",
+        "database": "connected",  # We'll make this real later
         "services": {
             "github_integration": "operational"
         }

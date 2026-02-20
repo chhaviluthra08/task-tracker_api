@@ -23,10 +23,9 @@ wheels/
 .installed.cfg
 *.egg
 
-# Environment - NEVER COMMIT SECRETS!
+# Environment
 .env
 .env.local
-.env.*.local
 
 # IDE
 .vscode/
