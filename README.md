@@ -1,8 +1,8 @@
-# 🎯 Task Tracker API
+#  Task Tracker API
 
 A production-grade FastAPI application for task management with GitHub commit integration via webhooks.
 
-## 🚀 Features
+##  Features
 
 - **Task Management**: Full CRUD operations with relationships and dependencies
 - **GitHub Integration**: Auto-link commits to tasks via webhooks
@@ -11,7 +11,7 @@ A production-grade FastAPI application for task management with GitHub commit in
 - **Advanced Search**: Full-text search and filtering
 - **Analytics Dashboard**: Task completion metrics and insights
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: FastAPI (async Python)
 - **Database**: PostgreSQL with SQLAlchemy ORM
@@ -20,7 +20,7 @@ A production-grade FastAPI application for task management with GitHub commit in
 - **DevOps**: Docker, Docker Compose
 - **Testing**: pytest with async support
 
-## 📦 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.11+
@@ -51,19 +51,19 @@ docker-compose up --build
 - Docs: http://localhost:8000/api/v1/docs
 - ReDoc: http://localhost:8000/api/v1/redoc
 
-## 📚 API Documentation
+## API Documentation
 
 Interactive API documentation is available at `/api/v1/docs` when running the server.
 
-## 🧪 Testing
+## Testing
 ```bash
 pytest tests/ -v
 ```
 
-## 📝 License
+## License
 
 MIT License - feel free to use this project for learning!
 
-## 👤 Author
+## Author
 
 Built by [Your Name] for campus placement preparation.
