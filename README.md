@@ -66,4 +66,4 @@ MIT License - feel free to use this project for learning!
 
 ## Author
 
-Built by [Your Name] for campus placement preparation.
+Built by Chhavi Luthra for fun.
