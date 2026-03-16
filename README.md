@@ -17,7 +17,7 @@ A production-grade FastAPI application for task management with GitHub commit in
 - **Database**: PostgreSQL with SQLAlchemy ORM
 - **Authentication**: JWT tokens with bcrypt hashing
 - **External APIs**: GitHub API integration
-- **DevOps**: Docker, Docker Compose
+- **DevOps**: Docker, Docker Compose 
 - **Testing**: pytest with async support
 
 ## Quick Start
