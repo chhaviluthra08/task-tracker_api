@@ -36,7 +36,7 @@ cd task-tracker-api
 ```
 
 2. **Set up environment variables**
-```bash
+```bash 
 cp .env.example .env
 # Edit .env with your configuration
 ```
